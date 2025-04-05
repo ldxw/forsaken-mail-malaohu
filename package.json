@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/malaohu/forrsaken-mail.git"
+    "url": "git+https://github.com/ldxw/forsaken-mail-malaohu.git"
   },
   "author": "Hongcai Deng",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/malaohu/forrsaken-mail/issues"
+    "url": "https://github.com/ldxw/forsaken-mail-malaohu/issues"
   },
-  "homepage": "https://github.com/malaohu/forrsaken-mail#readme",
+  "homepage": "https://github.com/ldxw/forsaken-mail-malaohu#readme",
   "dependencies": {
     "body-parser": "^1.14.2",
     "debug": "^2.2.0",

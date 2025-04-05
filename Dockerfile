@@ -1,10 +1,10 @@
 FROM node:latest
-MAINTAINER malaohu <malaohu@live.com>
+MAINTAINER ldxw <pay@ldxw.top>
 
 RUN apt-get clean all
 RUN apt-get update
 RUN apt-get -y install git
-RUN git clone https://github.com/malaohu/forsaken-mail.git /forsaken-mail
+RUN git clone https://github.com/ldxw/forsaken-mail-malaohu.git /forsaken-mail
 
 WORKDIR /forsaken-mail
 
